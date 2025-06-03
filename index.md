@@ -12,7 +12,7 @@ Insights:
 
 [ETL Pipeline + Análisis de Datos ](/sample_page)
 
-<img src="images/reporte.png"/>
+<img src="images/reporte_freq.png"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
